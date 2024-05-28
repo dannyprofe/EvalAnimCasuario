@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 727a75301c3d24613a3ebcec4a24c2c8, type: 3}
+  title: Template para Animacion!!
+  sections:
+  - heading: Bienvenidos a la evaluacion II de animacion 01
+    text: Este template incluira la base de lo que haran para la entrega
+    linkText: 
+    url: 
+  - heading: Aqui tienen un link al video del proceso en general
+    text: 
+    linkText: Video
+    url: https://youtu.be/jc7qJYrGud8
+  - heading: Aqui esta mi correo en caso de consultas y entrega
+    text: danny.escobar.castro@arcos.cl
+    linkText: 
+    url: 
+  - heading: Templates y/o pluggins instalados
+    text: Starter Assets - ThirdPerson | Updates in new CharacterController package
+    linkText: 
+    url: 
+  - heading: Pauta de Evaluacion
+    text: 
+    linkText: Link Aqui
+    url: https://docs.google.com/spreadsheets/d/1uX1uWZ9_vz_OpO6FeREnwh24KxbwffI9UDdvviJ1DbY/edit?usp=sharing
+  - heading: Entrega
+    text: La entrega sera el dia 4 de Junio (Por confirmar, escuchen la clase)
+    linkText: Por cada dia se descuentas -0.1 decimas
+    url: 
+  loadedLayout: 1
